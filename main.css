@@ -11,8 +11,10 @@ body{
 }
 
 p {
-	font-size: 14px;
+	font-size: 15px;
 	line-height: 1.0; 
+	text-align: justify;
+	text-justify: inter-word;
 	background: url(love.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
